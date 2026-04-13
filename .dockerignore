@@ -1,0 +1,26 @@
+# Created by GitHub Assistant on 2026-04-13 04:32:36 UTC
+
+# Ignore the .env file
+.env
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore local database files
+*.sqlite
+
+# Ignore Docker files
+Dockerfile
+docker-compose.yml
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore build directories
+/build
+/dist
+
+# Ignore system files
+.DS_Store
+Thumbs.db
